@@ -4,7 +4,7 @@
 **Design Pattern** không phải là các giải pháp hoàn chỉnh, mà là các mô hình hoặc khuôn mẫu giải quyết một vấn đề cụ thể. Chúng có thể được áp dụng cho nhiều ngôn ngữ lập trình khác nhau.
 
 Có nhiều loại **Design Pattern** khác nhau, được phân loại theo mục đích của chúng. Một số loại **Design Pattern** phổ biến bao gồm:
-![image](https://github.com/Experimenters1/Node.js_design_pattern/assets/64000769/1e2551fe-e8f3-454c-bf40-97a8ca0e8771) <br>
-+) **Creational Patterns:**  Các Design Pattern này giải quyết vấn đề tạo ra các đối tượng. <br>
-+) **Structural Patterns:** Các Design Pattern này giải quyết vấn đề kết nối các đối tượng với nhau. <br>
-+) **Behavioral Patterns:** Các Design Pattern này giải quyết vấn đề giao tiếp và tương tác giữa các đối tượng. <br>
+![image](https://github.com/Experimenters1/Node.js_design_pattern/assets/64000769/1e2551fe-e8f3-454c-bf40-97a8ca0e8771) <br><br>
++) **Creational Patterns:**  Các Design Pattern này giải quyết vấn đề tạo ra các đối tượng. <br><br>
++) **Structural Patterns:** Các Design Pattern này giải quyết vấn đề kết nối các đối tượng với nhau. <br><br>
++) **Behavioral Patterns:** Các Design Pattern này giải quyết vấn đề giao tiếp và tương tác giữa các đối tượng. <br><br>
