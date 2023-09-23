@@ -50,5 +50,7 @@ MVC có thể được áp dụng cho nhiều ngôn ngữ lập trình và nền
 +) **Command Pattern:** Để điều khiển các hành động của **Model** từ **View**.<br><br>
 
 **Strategy Pattern** là một **Design Pattern**, thuộc nhóm **Behavioral Pattern**. Nó được sử dụng để định nghĩa một tập hợp các thuật toán, đóng gói từng thuật toán lại và dễ dàng thay đổi linh hoạt các thuật toán bên trong **object**. **Strategy** cho phép thuật toán biến đổi độc lập khi người dùng sử dụng chúng.<br><br>
-![Screenshot 2023-09-23 at 2 09 46 PM](https://github.com/Experimenters1/Node.js_design_pattern/assets/64000769/cdc4594e-778d-4663-993b-b91267aac4ed)
+![Screenshot 2023-09-23 at 2 09 46 PM](https://github.com/Experimenters1/Node.js_design_pattern/assets/64000769/cdc4594e-778d-4663-993b-b91267aac4ed)<br><br>
+
+**Repository storage pattern trong Node.js thường được sử dụng kết hợp với một database, chẳng hạn như MongoDB, PostgreSQL hoặc MySQL. Lớp Repository sẽ cung cấp các phương thức để tạo, đọc, cập nhật và xóa dữ liệu từ database.**
 
