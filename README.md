@@ -49,4 +49,6 @@ MVC có thể được áp dụng cho nhiều ngôn ngữ lập trình và nền
 +) **Adapter Pattern:** Để kết nối các View với các **Model**.<br><br>
 +) **Command Pattern:** Để điều khiển các hành động của **Model** từ **View**.<br><br>
 
+**Strategy Pattern** là một **Design Pattern**, thuộc nhóm **Behavioral Pattern**. Nó được sử dụng để định nghĩa một tập hợp các thuật toán, đóng gói từng thuật toán lại và dễ dàng thay đổi linh hoạt các thuật toán bên trong **object**. **Strategy** cho phép thuật toán biến đổi độc lập khi người dùng sử dụng chúng.<br><br>
+![Screenshot 2023-09-23 at 2 09 46 PM](https://github.com/Experimenters1/Node.js_design_pattern/assets/64000769/cdc4594e-778d-4663-993b-b91267aac4ed)
 
