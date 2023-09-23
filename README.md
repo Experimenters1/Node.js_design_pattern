@@ -8,3 +8,15 @@ Có nhiều loại **Design Pattern** khác nhau, được phân loại theo m�
 +) **Creational Patterns:**  Các Design Pattern này giải quyết vấn đề tạo ra các đối tượng. <br><br>
 +) **Structural Patterns:** Các Design Pattern này giải quyết vấn đề kết nối các đối tượng với nhau. <br><br>
 +) **Behavioral Patterns:** Các Design Pattern này giải quyết vấn đề giao tiếp và tương tác giữa các đối tượng. <br><br>
+
+**Khi nào nên sử dụng Design Pattern?** <br><br>
+
+Design Pattern có thể được sử dụng trong nhiều tình huống khác nhau. Tuy nhiên, chúng đặc biệt hữu ích trong các trường hợp sau: <br><br>
+
++) Khi bạn gặp phải một vấn đề thiết kế phổ biến. <br><br>
+
++) Khi bạn muốn tạo ra một phần mềm dễ bảo trì và mở rộng. <br><br>
+
++) Khi bạn muốn cải thiện chất lượng phần mềm của mình. <br><br>
+
+**Các Design Pattern phổ biến**
