@@ -19,4 +19,9 @@ Design Pattern có thể được sử dụng trong nhiều tình huống khác 
 
 +) Khi bạn muốn cải thiện chất lượng phần mềm của mình. <br><br>
 
-**Các Design Pattern phổ biến**
+**Các Design Pattern phổ biến** <br><br>
+
+Dưới đây là một số Design Pattern phổ biến: <br><br>
+
+![image](https://github.com/Experimenters1/Node.js_design_pattern/assets/64000769/428e0b19-5158-4cd3-945f-55db450fed50) <br><br>
++) **Singleton Pattern:** Giúp đảm bảo rằng chỉ có một thể hiện duy nhất của một lớp trong một ứng dụng. <br><br>
