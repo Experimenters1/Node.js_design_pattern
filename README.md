@@ -32,3 +32,21 @@ Dưới đây là một số Design Pattern phổ biến: <br><br>
 +) **Command Pattern:** Giúp tách rời các đối tượng thực hiện một hành động khỏi các đối tượng yêu cầu hành động đó được thực hiện. <br><br>
 +) **Iterator Pattern:** Cho phép duyệt qua một tập hợp các đối tượng mà không cần biết cấu trúc cụ thể của tập hợp đó.<br><br>
 +) **Composite Pattern:** Cho phép tạo các cấu trúc cây từ các đối tượng có thể là đơn giản hoặc phức tạp.
+
+![image](https://github.com/Experimenters1/Node.js_design_pattern/assets/64000769/5e9531bc-a778-407c-97b4-61eacdd49d3b) <br><br>
+
+**MVC** là một **Structural Design Pattern**, được sử dụng để tách rời các thành phần của một ứng dụng phần mềm thành ba phần: <br><br>
++) **Model:** Chứa dữ liệu và logic nghiệp vụ của ứng dụng. <br><br>
++) **View:** Hiển thị dữ liệu cho người dùng. <br><br>
++) **Controller:** Điều khiển giao diện giữa người dùng và ứng dụng. <br><br>
+
+MVC có thể được áp dụng cho nhiều ngôn ngữ lập trình và nền tảng khác nhau. Nó là một mô hình kiến trúc phổ biến cho các ứng dụng web, nhưng cũng có thể được sử dụng cho các ứng dụng không dựa trên web.<br><br>
+
+**Vị trí của MVC trong Design Pattern**
+**MVC** là một **Design Pattern** ở cấp độ kiến trúc, vì nó xác định cách các thành phần của một ứng dụng được tổ chức. Nó không giải quyết các vấn đề cụ thể trong việc tạo ra các đối tượng, kết nối các đối tượng với nhau hoặc giao tiếp và tương tác giữa các đối tượng.
+**MVC** thường được sử dụng kết hợp với các **Design Pattern** khác, chẳng hạn như:
++) **Factory Pattern:** Để tạo ra các đối tượng **Model**.
++) **Adapter Pattern:** Để kết nối các View với các **Model**.
++) **Command Pattern:** Để điều khiển các hành động của **Model** từ **View**.
+
+
